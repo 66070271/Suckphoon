@@ -10,9 +10,11 @@ Project วัดสภาพอากาศในรายวิชา PHYSICAL
 - การตรวจจับปริมาณ PM2.5 โดยใช้ GP2Y1014AU0F dust sensor แล้วนำค่าที่ได้มาผ่านการคำณวณมาตราฐาน AQI⁺ พร้อมบันทึกและแสดงผล
 - การแสดงผล Real-Time มีการแสดงผลค่าพร้อมทั้งสถานะตอนนั้น เช่น อากาศดี ผ่าน LCD 16*2 และผ่าน LIVE SEVER โดยการดึงข้อมูลจาก MQTT
 ## Project Website
-- 
+- https://github.com/66070271/Suckphoon
+## Project Video
+- https://www.youtube.com/watch?v=xOWQqx0On7Q
 ## Poster
-- 
+- ![Uploading poster.png…]()
 ## สมาชิก
 - นายธนกฤต สุทธิพงษ์ 66070263
 - นายธิติพัทธ์ สนประเสริฐกุล 66070271
