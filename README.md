@@ -14,7 +14,7 @@ Project วัดสภาพอากาศในรายวิชา PHYSICAL
 ## Project Video
 - https://www.youtube.com/watch?v=xOWQqx0On7Q
 ## Poster
-- ![poster](https://github.com/user-attachments/assets/9a144af0-c261-4ea5-85f2-b43ea9abdf2d)
+![poster](https://github.com/user-attachments/assets/9a144af0-c261-4ea5-85f2-b43ea9abdf2d)
 ## สมาชิก
 - นายธนกฤต สุทธิพงษ์ 66070263
 - นายธิติพัทธ์ สนประเสริฐกุล 66070271
